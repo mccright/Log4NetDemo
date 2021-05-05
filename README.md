@@ -1,4 +1,5 @@
 # Log4NetDemo  
+[![](https://tokei.rs/b1/github.com/mccright/Log4NetDemo/?category=code)](https://github.com/mccright/Log4NetDemo)
 
 This little demo is just a way to remind myself how to use log4Net.  
 
